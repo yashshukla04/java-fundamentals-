@@ -34,5 +34,4 @@ It helps beginners understand **looping concepts** and **sequence generation** i
 - Email: yash454shukla@gmail.com  
 ```
 
-Do you want me to generate this as a **README.md file** that you can directly add to your project folder?
 
