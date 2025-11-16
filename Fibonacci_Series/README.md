@@ -1,8 +1,4 @@
-Got it ✅ I’ll remove the **Example Output** section and keep the README clean in the same structure.
 
-Here’s the updated **README.md**:
-
-```markdown
 # Fibonacci Series
 
 A beginner-friendly Java program that prints the **Fibonacci series** using a `while` loop.  
